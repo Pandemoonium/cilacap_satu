@@ -221,6 +221,23 @@ Builder(
     'https://docs.google.com/spreadsheets/d/1vvamIUAguFcFgrLoO27-d5Vn4VchzKyE9FOXPl8bQCU/edit?gid=0#gid=0',
     
                     ),
+                   MenuCard(
+  icon: Icons.groups_rounded,
+  title: 'PBPU KOLEKTIF',
+  description: 'Data PBPU Kolektif Kabupaten Cilacap',
+  color: Color(0xFF2563EB),
+  url:
+      'https://docs.google.com/spreadsheets/d/1WK6ElrIjDUooOzmF1mmlNzZYJ5PhAU8Kf-VVS_CRneM/edit?usp=sharing',
+),
+
+MenuCard(
+  icon: Icons.directions_car_rounded,
+  title: 'LAPORAN BPJS KELILING',
+  description: 'Laporan BPJS Keliling Kabupaten Cilacap',
+  color: Color(0xFF7C3AED),
+  url:
+      'https://docs.google.com/spreadsheets/d/1xBB0u4K8VcWfnkunOL80DgFwjw29St8cot1_-Hxy3OE/edit?usp=sharing',
+),
                   ],
                 ),
 
