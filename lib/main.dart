@@ -238,6 +238,14 @@ MenuCard(
   url:
       'https://docs.google.com/spreadsheets/d/1xBB0u4K8VcWfnkunOL80DgFwjw29St8cot1_-Hxy3OE/edit?usp=sharing',
 ),
+MenuCard(
+  icon: Icons.location_city_rounded,
+  title: 'Profil Kabupaten',
+  description: 'Profil Kabupaten Cilacap',
+  color: Color(0xFF0F766E),
+  url:
+      'https://bpjskesehatano365-my.sharepoint.com/:x:/g/personal/tantular_joang_bpjs-kesehatan_go_id/IQCEHy4HA_E9QYzi_N4F9H8JAanlCoP8OrQOeYuLk2Z1EW0?e=GjxTbP',
+),
                   ],
                 ),
 
